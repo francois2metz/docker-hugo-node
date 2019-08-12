@@ -1,6 +1,6 @@
 # Docker image with hugo and nodejs
 
-This image contains [nodejs][] 10 and the latest version of [Hugo][hugo].
+This image contains [nodejs][] 10 and the latest version of [Hugo][hugo] (extended version).
 
 ## Usage
 
